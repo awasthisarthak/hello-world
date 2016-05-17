@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+Hi folks!
+
+Sarthak here, writing my first repository ever....
+Wish me luck!
